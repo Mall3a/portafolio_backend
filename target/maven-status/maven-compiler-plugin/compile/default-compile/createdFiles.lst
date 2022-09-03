@@ -1,1 +1,3 @@
 com/portafolio/RestService/RestServiceApplication.class
+com/portafolio/RestService/Controller/LoginController.class
+com/constanzamallea/RestService/Service/LoginService.class
