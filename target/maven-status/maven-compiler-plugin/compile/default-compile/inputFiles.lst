@@ -1,1 +1,8 @@
+/Users/mallea/Downloads/Portafolio/portafolio_backend/src/main/java/com/portafolio/RestService/Service/LoginService.java
+/Users/mallea/Downloads/Portafolio/portafolio_backend/src/main/java/com/portafolio/RestService/Repository/UsuarioRepository.java
 /Users/mallea/Downloads/Portafolio/portafolio_backend/src/main/java/com/portafolio/RestService/RestServiceApplication.java
+/Users/mallea/Downloads/Portafolio/portafolio_backend/src/main/java/com/portafolio/RestService/Controller/LoginController.java
+/Users/mallea/Downloads/Portafolio/portafolio_backend/src/main/java/com/portafolio/RestService/Model/Usuario.java
+/Users/mallea/Downloads/Portafolio/portafolio_backend/src/main/java/com/portafolio/RestService/Config/OracleConfiguration.java
+/Users/mallea/Downloads/Portafolio/portafolio_backend/src/main/java/com/portafolio/RestService/Config/DbSettings.java
+/Users/mallea/Downloads/Portafolio/portafolio_backend/src/main/java/com/portafolio/RestService/Config/CorsConfig.java

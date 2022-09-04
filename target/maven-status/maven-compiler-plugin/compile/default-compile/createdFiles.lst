@@ -1,3 +1,8 @@
 com/portafolio/RestService/RestServiceApplication.class
+com/portafolio/RestService/Model/Usuario.class
+com/portafolio/RestService/Config/OracleConfiguration.class
 com/portafolio/RestService/Controller/LoginController.class
-com/constanzamallea/RestService/Service/LoginService.class
+com/portafolio/RestService/Config/DbSettings.class
+com/portafolio/RestService/Service/LoginService.class
+com/portafolio/RestService/Config/CorsConfig.class
+com/portafolio/RestService/Repository/UsuarioRepository.class
